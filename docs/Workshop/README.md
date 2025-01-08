@@ -13,8 +13,8 @@ If you are a coding enthusiast you can develop your project alone, otherwise you
 ***
 You'll find [here](https://github.com/mchialva/PhDToolbox2025/blob/main/Workshop/Final_workshop.pdf) a short description of each of the suggested dataset:
 
--[Dataset 1 - vegetation survey](https://www.davidzeleny.net/anadat-r/doku.php/en:data:aravo)
--[Dataset 2 - haunted places](https://github.com/rfordatascience/tidytuesday/tree/main/data/2023/2023-10-10)
--[Dataset 3 - National Park Species](https://github.com/rfordatascience/tidytuesday/tree/main/data/2024/2024-10-08)
--[Dataset 4 - Taylor Swift](https://github.com/rfordatascience/tidytuesday/tree/main/data/2023/2023-10-17)
+### [Dataset 1 - vegetation survey](https://www.davidzeleny.net/anadat-r/doku.php/en:data:aravo)
+### [Dataset 2 - haunted places](https://github.com/rfordatascience/tidytuesday/tree/main/data/2023/2023-10-10)
+### [Dataset 3 - National Park Species](https://github.com/rfordatascience/tidytuesday/tree/main/data/2024/2024-10-08)
+### [Dataset 4 - Taylor Swift](https://github.com/rfordatascience/tidytuesday/tree/main/data/2023/2023-10-17)
 ***
