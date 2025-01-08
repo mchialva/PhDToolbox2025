@@ -44,7 +44,7 @@ https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson
 - [Reproducible data reporting with RMarkdown and Quarto](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_rmarkdown.pdf)
 
 ### Day 5 - February 4, 2025, 10:00-13:00
-- [Final Data wrangling & visulisation workshop](https://mchialva.github.io/PhDToolbox2025/Workshop/)
+- [Final Data wrangling & visulisation workshop](https://github.com/mchialva/PhDToolbox2025/tree/main/docs/Workshop/)
 
 # [Exercises](https://mchialva.github.io/PhDToolbox2025/Exercises/)
 
