@@ -20,9 +20,10 @@ Venue: All lesssons will take place in Auletta I and Auletta II, Orto Botanico, 
 ### Day 2 - January 16, 2025, 14:00-17:00
 - [Data Organization in Spreadsheets](
 https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson_2_spreadsheets.pdf)
-- [Data wrangling with tidyverse](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_1/Lesson_2_data_wrangling.pdf)
+- [Data wrangling with tidyverse - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_1/Lesson_2_data_wrangling.pdf)
 
 ### Day 3 - January 21, 2025, 10:00-13:00
+- [Data wrangling with tidyverse - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_1/Lesson_2_data_wrangling.pdf)
 - [Tips & Tricks](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_1/Lesson_3_tips.pdf)
 - [Base graphics  in R](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_1/Lesson_3_basegraphics.pdf)
 
@@ -35,13 +36,15 @@ https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson
 - [Advanced Scientific data visualization in R with ggplot2 - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_2_ggplot2.pdf)
 
 ### Day 3 - January 28, 2025, 10:00-13:00
-- [Working with lists](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_lists.pdf)
-- [Reproducible data reporting with RMarkdown and Quarto](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_rmarkdown.pdf)
 - [Plotting maps in R - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_rmapping.pdf)
 
 ### Day 4 - January 30, 2025, 10:00-13:00
 - [Plotting maps in R - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_4_rmapping.pdf)
-- [Data wrangling & visulisation workshop](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_4_workshop.pdf)
+- [Working with lists](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_lists.pdf)
+- [Reproducible data reporting with RMarkdown and Quarto](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_rmarkdown.pdf)
+
+### Day 5 - February 4, 2025, 10:00-13:00
+- [FInal Data wrangling & visulisation workshop](https://github.com/mchialva/PhDToolbox2025/blob/main/Workshop/)
 
 # [Exercises](https://mchialva.github.io/PhDToolbox2025/Exercises/)
 
