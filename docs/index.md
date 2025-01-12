@@ -15,9 +15,10 @@ Venue: All lesssons will take place in Auletta I and Auletta II, Orto Botanico, 
 ## Stream 1 R for Data Science: R for Beginners
 
 ### Day 1 - January 13, 2025, 11:00-13:00
-- [Introduction to R: Data types and objects classes](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
+- [Introduction to R: Data types and objects classes - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
 
 ### Day 2 - January 16, 2025, 14:00-17:00
+- [Introduction to R: Data types and objects classes - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
 - [Data Organization in Spreadsheets](
 https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson_2_spreadsheets.pdf)
 - [Data wrangling with tidyverse - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_1/Lesson_2_data_wrangling.pdf)

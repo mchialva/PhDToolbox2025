@@ -1,2 +1,8 @@
+# Ignore lessons
 Lessons/Stream_1/*.pdf
 Lessons/Stream_2/*.pdf
+
+But not...
+!Lessons/Stream_1/Lesson_1_RBasics.pdf
+!Lessons/Stream_1/Lesson_2_spreadsheets.pdf
+
