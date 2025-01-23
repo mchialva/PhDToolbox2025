@@ -20,7 +20,7 @@ Authors: Matteo Chialva & Martino Adamo
 > + Please, check the field separator before importing the file. File extension is .csv, but the separator could not be the comma.
 
 ```
-read.table(..., quote="\"", fill=T)
+read.delim(..., quote="\"", fill=T)
 ```
 - Check the object class, structure and dimensions of the imported object
 
