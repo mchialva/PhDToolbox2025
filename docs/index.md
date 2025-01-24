@@ -34,13 +34,13 @@ https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons%2FStream_1%2FLesson
 - [Advanced Scientific data visualization in R with ggplot2 - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_1_ggplot2.pdf)
 
 ### Day 2 - January 24, 2025, 10:00-13:00
-- [Advanced Scientific data visualization in R with ggplot2 - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_2_ggplot2.pdf)
+- [Advanced Scientific data visualization in R with ggplot2 - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_1_ggplot2.pdf)
 
 ### Day 3 - January 28, 2025, 10:00-13:00
-- [Plotting maps in R - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_rmapping.pdf)
+- [Plotting maps in R - Part I](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_2_rmapping.pdf)
 
 ### Day 4 - January 30, 2025, 10:00-13:00
-- [Plotting maps in R - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_4_rmapping.pdf)
+- [Plotting maps in R - Part II](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_2_rmapping.pdf)
 - [Working with lists](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_lists.pdf)
 - [Reproducible data reporting with RMarkdown and Quarto](https://github.com/mchialva/PhDToolbox2025/blob/main/Lessons/Stream_2/Lesson_3_rmarkdown.pdf)
 
